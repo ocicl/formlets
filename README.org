@@ -1,0 +1,10 @@
+* formlets
+
+Automatically validating formlets for Hunchentoot + cl-who
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Inaimathi/formlets.git   |
+| commit  | 48fed00  |
+| systems | formlets |
+|---------+-------------------------------------------|
+
